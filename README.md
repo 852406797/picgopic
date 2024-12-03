@@ -1,0 +1,2 @@
+# picgopic
+For PicGo pictures
